@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-mi_#$swn_hr_^da*=^@s=fz$6xds-z#r%$+f_2z%-vesk3sfh4
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['ribia.herokuapp.com']
 
 
 # Application definition
